@@ -39,7 +39,7 @@ double f(double x)
 
 	return(x*x - 2.0);
 	//return(x*x*x*x-4.0*x*x+2.0; // This is a two cycle for x^2-2.
-	return(x*x*x*x*x*x*x*x-8.0*x*x*x*x*x*x+20.0*x*x*x*x-16.0*x*x+2.0; // This is a three cycle for x^2-2.
+	//return(x*x*x*x*x*x*x*x-8.0*x*x*x*x*x*x+20.0*x*x*x*x-16.0*x*x+2.0; // This is a three cycle for x^2-2.
 	//return(sin(x));
 	//return(1.0/x);
 	//return(pow(x, 3.0/2.0);
